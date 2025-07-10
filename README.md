@@ -71,7 +71,7 @@
 ## 🚀 Установка  
 
 ```bash
-git clone https://github.com/chocopie777/.git
+git clone https://github.com/chocopie777/mini-blog.git
 
 npm install
 
